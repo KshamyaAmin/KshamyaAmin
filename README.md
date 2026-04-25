@@ -13,17 +13,67 @@
   </a>
 </p>
 
-### 🛠️ Languages and Tools:
+## 💫 About Me
+- 🎓 MCA Student
+- 💻 Skilled in Python, Java, HTML, CSS, JavaScript & SQL  
+- 🚀 Focused on building practical and real-world applications  
+- 📚 Continuously learning and improving through projects  
 
+---
+
+## 🧩 Areas of Interest
+- 🌐 Full Stack Development  
+- ⚙️ Backend Development  
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p>
- <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,sql," />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c"/>
 </p>
 
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,canva" />
+  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
 </p>
 
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite"/>
+</p>
 
+### ☁️ Tools & Deployment
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Canva-purple?style=for-the-badge&logo=canva"/>
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+</p>
 
+---
 
+## 💼 Experience
+
+### Web Development Intern — Oasis Infobyte  
+- Built responsive UI components  
+- Improved debugging and problem-solving skills  
+- Worked on real-world development tasks  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KshamyaAmin&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KshamyaAmin&theme=tokyonight"/>
+</p>
