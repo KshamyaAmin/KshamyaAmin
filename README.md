@@ -26,15 +26,4 @@
 </p>
 
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KshamyaAmin&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KshamyaAmin&theme=radical" />
-</p>
-
----
 
