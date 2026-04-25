@@ -18,7 +18,7 @@
 
 <p>
  <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,sql,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,sql,vscode,github,canva" />
 </p>
 
 <p>
