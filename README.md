@@ -29,11 +29,14 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r"/>
 </p>
 
 ### 🌐 Frontend
@@ -46,6 +49,7 @@
 <p>
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite"/>
 </p>
 
@@ -56,7 +60,6 @@
   <img src="https://img.shields.io/badge/Canva-purple?style=for-the-badge&logo=canva"/>
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
 </p>
-
 ---
 ## 📊 GitHub Analytics
 <p align="center">
