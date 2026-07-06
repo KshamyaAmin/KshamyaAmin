@@ -1,112 +1,84 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Kshamya%20Amin&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Kshamya%20Amin&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Kshamya Amin</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Java+Developer;Backend+Enthusiast;Always+Learning+New+Things"/>
-</p>
-
 <p align="center">
   <a href="mailto:kshamyaamin19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-kshamyaamin19@gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-
   <a href="https://www.linkedin.com/in/kshamya-amin-984b19289">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Kshamya%20Amin-blue?style=for-the-badge&logo=linkedin">
   </a>
-
   <a href="https://github.com/KshamyaAmin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-KshamyaAmin-black?style=for-the-badge&logo=github">
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KshamyaAmin&label=Profile+Views&color=0e75b6&style=flat-square"/>
-</p>
-
----
 
 ## 💫 About Me
-
 - 🎓 MCA Student
-- 💻 Passionate about Full Stack Development
-- 🚀 Building real-world applications using Python & Java
-- 🌱 Currently exploring Backend Development
-- 📚 Always learning new technologies and improving problem-solving skills
+- 💻 Skilled in Python, Java, HTML, CSS, JavaScript & SQL  
+- 🚀 Focused on building practical and real-world applications  
+- 📚 Continuously learning and improving through projects  
 
 ---
+
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="Coding Animation">
 </div>
 
----
+--------
 
 ## 🧩 Areas of Interest
-
-- 🌐 Full Stack Development
-- ⚙️ Backend Development
-- 🛢️ Database Design
-- 🤖 AI-powered Applications
-
+- 🌐 Full Stack Development  
+- ⚙️ Backend Development  
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
+<!-- Programming Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" title="R"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<!-- Web -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" title="CSS3"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50"/>
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="48" title="Flask"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
+<!-- Database -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" title="SQLite"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50"/>
+<!-- Version Control -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="48" title="GitHub"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50"/>
+<!-- IDE -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>
+
+<!-- Deployment -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" title="Vercel"/>
+
+
 
 </p>
-
----
-
 ## 📊 GitHub Analytics
-
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KshamyaAmin&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KshamyaAmin&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KshamyaAmin&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshamyaAmin&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshamyaAmin&layout=compact&theme=tokyonight"/>
-</p>
 
----
 
-## 🐍 Contribution Graph
+just refine and  add some chnages and give me the code 
 
-<p align="center">
-<img src="https://github.com/KshamyaAmin/KshamyaAmin/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<h3 align="center">
-✨ Thanks for visiting my profile! ✨
-</h3>
