@@ -61,10 +61,6 @@
 </p>
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Girl Coding">
-</p>
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KshamyaAmin&theme=tokyonight"/>
