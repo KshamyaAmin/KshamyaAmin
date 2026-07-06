@@ -26,40 +26,26 @@
 - ⚙️ Backend Development  
 ---
 
-## 🛠️ Tech Stack
+<h3>🛠️ Languages & Tools</h3>
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r"/>
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite"/>
-</p>
-
-### ☁️ Tools & Deployment
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Canva-purple?style=for-the-badge&logo=canva"/>
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
-</p>
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/>
+</p>---
 
 ## 📊 GitHub Analytics
 <p align="center">
