@@ -21,6 +21,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Programmer Coding">
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="Coding Animation">
+</div>
+
+--------
+
 ## 🧩 Areas of Interest
 - 🌐 Full Stack Development  
 - ⚙️ Backend Development  
