@@ -97,6 +97,41 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KshamyaAmin&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=KshamyaAmin&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshamyaAmin&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KshamyaAmin&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KshamyaAmin&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 
 ### 📊 Data Science & Machine Learning
 
