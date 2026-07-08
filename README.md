@@ -32,8 +32,6 @@
 - 🎓 MCA Student
 - 💻 Full Stack Developer
 - 🚀 Passionate about building real-world web applications
-- 🌱 Currently learning Backend Development & Modern Web Technologies
-- ⚡ Strong foundation in Python, Java, JavaScript & SQL
 - 🤝 Open to Software Developer & Full Stack Developer opportunities
 
 </td>
@@ -52,10 +50,8 @@
 ## 🧩 Areas of Interest
 
 - 🌐 Full Stack Development
-- ⚙️ Backend Development
-- 🗄️ Database Design
 - 🔐 Authentication & Security
-- ☁️ Cloud Deployment
 - 🚀 Scalable Web Applications
 
 ---
+
